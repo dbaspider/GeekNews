@@ -18,7 +18,7 @@
         android:hardwareAccelerated="true"
         android:theme="@style/AppTheme">
 
-        //主类
+        <!-- //主类 -->
         <activity android:name=".ui.main.activity.WelcomeActivity"
             android:theme="@style/SplashTheme"
             android:screenOrientation="portrait">
